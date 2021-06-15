@@ -36,5 +36,5 @@ Run the First node
 'rosrun assignment1 assignment1'
 
 ## Software architecture
-![rosgraph](https://user-images.githubusercontent.com/73032093/115158081-febaab00-a07b-11eb-855d-b8fdd51d1f2f.png)
+
 
