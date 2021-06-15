@@ -37,4 +37,6 @@ Run the First node
 
 ## Software architecture
 
+download package and move to workspace
 
+https://github.com/sumanth108-bit/RT1_first-assignment.git
